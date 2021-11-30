@@ -5,18 +5,10 @@ object-assign
 */
 
 /*!
- * @pixi/accessibility - v6.0.4
+ * @pixi/constants - v6.0.4
  * Compiled Tue, 11 May 2021 18:00:23 UTC
  *
- * @pixi/accessibility is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- */
-
-/*!
- * @pixi/app - v6.0.4
- * Compiled Tue, 11 May 2021 18:00:23 UTC
- *
- * @pixi/app is licensed under the MIT License.
+ * @pixi/constants is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
  */
 
@@ -93,6 +85,14 @@ object-assign
  */
 
 /*!
+ * @pixi/particle-emitter - v5.0.2
+ * Compiled Sun, 29 Aug 2021 19:43:13 UTC
+ *
+ * @pixi/particle-emitter is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * @pixi/polyfill - v6.0.4
  * Compiled Tue, 11 May 2021 18:00:23 UTC
  *
@@ -109,6 +109,14 @@ object-assign
  */
 
 /*!
+ * @pixi/runner - v6.0.4
+ * Compiled Tue, 11 May 2021 18:00:23 UTC
+ *
+ * @pixi/runner is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * @pixi/settings - v6.0.4
  * Compiled Tue, 11 May 2021 18:00:23 UTC
  *
@@ -121,14 +129,6 @@ object-assign
  * Compiled Tue, 11 May 2021 18:00:23 UTC
  *
  * @pixi/ticker is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- */
-
-/*!
- * @pixi/utils - v6.0.4
- * Compiled Tue, 11 May 2021 18:00:23 UTC
- *
- * @pixi/utils is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
  */
 
